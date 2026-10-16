@@ -1,0 +1,6 @@
+{
+  "name": "Veloura — Elegant, premium lifestyle and home products",
+  "description": "Curated architectural home objects, artisanal ceramics, ambient lighting, and tactile textiles crafted for mindful daily rituals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
